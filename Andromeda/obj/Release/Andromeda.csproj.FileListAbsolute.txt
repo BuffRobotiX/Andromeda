@@ -1,0 +1,17 @@
+C:\Users\buffr\Documents\Visual Studio 2015\Projects\Andromeda\Andromeda\bin\Release\Andromeda.dll
+C:\Users\buffr\Documents\Visual Studio 2015\Projects\Andromeda\Andromeda\bin\Release\Andromeda.pdb
+C:\Users\buffr\Documents\Visual Studio 2015\Projects\Andromeda\Andromeda\bin\Release\Cosmos.Debug.Kernel.dll
+C:\Users\buffr\Documents\Visual Studio 2015\Projects\Andromeda\Andromeda\bin\Release\Cosmos.System.dll
+C:\Users\buffr\Documents\Visual Studio 2015\Projects\Andromeda\Andromeda\bin\Release\Hardware.dll
+C:\Users\buffr\Documents\Visual Studio 2015\Projects\Andromeda\Andromeda\bin\Release\Cosmos.Common.dll
+C:\Users\buffr\Documents\Visual Studio 2015\Projects\Andromeda\Andromeda\bin\Release\Cosmos.HAL.dll
+C:\Users\buffr\Documents\Visual Studio 2015\Projects\Andromeda\Andromeda\bin\Release\Cosmos.Core.dll
+C:\Users\buffr\Documents\Visual Studio 2015\Projects\Andromeda\Andromeda\bin\Release\Hardware.pdb
+C:\Users\buffr\Documents\Visual Studio 2015\Projects\Andromeda\Andromeda\bin\Release\Cosmos.System.pdb
+C:\Users\buffr\Documents\Visual Studio 2015\Projects\Andromeda\Andromeda\bin\Release\Cosmos.Debug.Kernel.pdb
+C:\Users\buffr\Documents\Visual Studio 2015\Projects\Andromeda\Andromeda\bin\Release\Cosmos.Common.pdb
+C:\Users\buffr\Documents\Visual Studio 2015\Projects\Andromeda\Andromeda\bin\Release\Cosmos.HAL.pdb
+C:\Users\buffr\Documents\Visual Studio 2015\Projects\Andromeda\Andromeda\bin\Release\Cosmos.Core.pdb
+C:\Users\buffr\Documents\Visual Studio 2015\Projects\Andromeda\Andromeda\obj\Release\Andromeda.csprojResolveAssemblyReference.cache
+C:\Users\buffr\Documents\Visual Studio 2015\Projects\Andromeda\Andromeda\obj\Release\Andromeda.dll
+C:\Users\buffr\Documents\Visual Studio 2015\Projects\Andromeda\Andromeda\obj\Release\Andromeda.pdb
