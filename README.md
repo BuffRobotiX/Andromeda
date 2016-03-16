@@ -9,3 +9,6 @@ I made a mouse which originally ran very slowly, this was because Cosmos updates
 
 I added a rectangle drawing function that is not fast, but good for demonstrations:
 ![Screenshot](/Screenshot.png)
+
+In a big update I added an 8x8 font, windows, and a window manager as well as clickable icons. The windows can be dragged around the screen and deleted by clicking the little red box in the upper right corner.
+![Screenshot](/Screenshot2.png)

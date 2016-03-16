@@ -46,8 +46,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AssemblyInfo.cs" />
-    <Compile Include="DisplayDriver.cs" />
-    <Compile Include="MouseDriver.cs" />
+    <Compile Include="Desktop.cs" />
+    <Compile Include="Display.cs" />
+    <Compile Include="FontDrawer.cs" />
+    <Compile Include="Driver.cs" />
+    <Compile Include="Icon.cs" />
+    <Compile Include="Mouse.cs" />
+    <Compile Include="Pong.cs" />
+    <Compile Include="Window.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
